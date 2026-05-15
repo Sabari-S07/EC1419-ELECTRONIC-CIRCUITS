@@ -14,19 +14,21 @@
 
 ## CIRCUIT DIAGRAM
 
-<img width="538" height="384" alt="image" src="https://github.com/user-attachments/assets/7258c2db-4bc3-4a33-9dfb-6f0bc0749e62" />
+<img width="932" height="1600" alt="e51f7dbe-dd39-4881-adb9-fec5a94cc1ae" src="https://github.com/user-attachments/assets/8c8a6ac7-d653-4390-9872-5c9c7a184835" />
 
 
 ## MODEL GRAPH
 
-<img width="420" height="320" alt="image" src="https://github.com/user-attachments/assets/35db161e-e8a3-4438-a25d-7849c15ee08e" />
-<img width="420" height="320" alt="image" src="https://github.com/user-attachments/assets/47c2cdf5-9004-4e0f-89d0-c9eda45cf64c" />
+<img width="900" height="1600" alt="0ffca84d-818c-4623-8802-126e4fad4a6e" src="https://github.com/user-attachments/assets/f01ab922-ce29-48e4-86ab-761d8c086139" />
 
 <img width="520" height="416" alt="image" src="https://github.com/user-attachments/assets/c8e67646-bb9d-4bf3-a4c9-6ba57b0d80f3" />
 
-## Tabulation
 
 ## Graph
+
+
+<img width="1600" height="310" alt="35b1d9ed-6643-45fe-a9b1-a486b718c000" src="https://github.com/user-attachments/assets/ee2571a6-f7d1-4f05-b23a-217000755b6d" />
+
 
 
 ## **Result**
